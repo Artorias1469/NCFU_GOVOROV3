@@ -3,5 +3,6 @@ while i > 2:
     i = i - 1
      if i < -3:
          i = i * -5
-    print("hello world")
+print("Егор")
+print("hello world")
     
