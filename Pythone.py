@@ -4,7 +4,7 @@ while i > 2:
      if i < -3:
          i = i * -5
      if i > -3:
-         i = i - 2
+         i = i - 3
 print("Егор")
 print("hello world")
     
